@@ -1,0 +1,17 @@
+{
+    "meals": [
+      {
+        "id": "1",
+        "title": "Pasta Pesto",
+        "isVegetarian": false,
+        "isFavorite": false
+      },
+      {
+        "id": "2",
+        "title": "Veg Whopper & Peri Peri French Fries",
+        "isVegetarian": true,
+        "isFavorite": false
+      }
+    ]
+  }
+  
